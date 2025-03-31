@@ -13,7 +13,7 @@ Placeholder to view the full documentation.
 
 The OpenFreight community can be found on [GitHub Discussions](https://github.com/) where you can ask questions, voice ideas, and share your projects with other people.
 
-To chat with other community members you can join the Next.js [Discord](https://discord.gg/pQJTRpSw) server.
+To chat with other community members you can join the OpenFreight [Discord](https://discord.gg/pQJTRpSw) server.
 
 
 ## Contributing
